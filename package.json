@@ -1,0 +1,11 @@
+{
+  "name": "aoc-skill-building",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
