@@ -3,9 +3,12 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {},
+  "type": "module",
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "tsc": "^2.0.4"
+    "@tsconfig/node18": "^2.0.1",
+    "@types/node": "^20.1.7",
+    "typescript": "^5.0.4"
   }
 }
